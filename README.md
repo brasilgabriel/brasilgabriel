@@ -1,6 +1,6 @@
 ## 👋 Eae! Eu sou o Gabriel Brasil 
 
-- 🌱 Estudando JavaScript/TypeScript e Angular
+- 🌱 Estudando JavaScript/TypeScript, Angular e Vue.js
 - 📫 Contate-me no email: editgabrielbr@outlook.com
 
 <div align="center">
